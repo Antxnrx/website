@@ -1,0 +1,7 @@
+leaf logo : https://cdn3.iconfinder.com/data/icons/leaves-2-1/50/136-4096.png
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+
+earth image from freepik.com
