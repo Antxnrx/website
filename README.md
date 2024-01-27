@@ -33,6 +33,6 @@ git clone https://github.com/Antxnrx/website.git
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 
